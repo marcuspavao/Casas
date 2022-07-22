@@ -5,4 +5,4 @@
 
 __Respostas:__
 
-3. Através do balb ablabal
+3.  O código realiza uma soma de dois algorismos utilizando
